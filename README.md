@@ -81,7 +81,7 @@ ___
 
 <div style="display:flex;align-items:center">
     <div>
-        <h5> <a href='https://github.com/Toadoum'> Mr. Sakayo Toadoum Sari </a> </h5> <img src="tsf-prof.jpg" height= 7% width= 7%>
+        <h5> <a href='https://github.com/Toadoum'> Mr. Sakayo Toadoum Sari </a> </h5> <img src="/Users/bonaventurefonteh/Documents/TextClassification/figures/tsf-prof.jpg" height= 7% width= 7%>
 <div>
     <h5> <a href='.'> Mss Fadila Hamid Abdulai </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
     
