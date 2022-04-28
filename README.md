@@ -43,15 +43,6 @@ $ pip install -r requirements.txt
 ```
 $ python3 main.py 
 ```
-## Example of running models ##
-
-```
-$ python3 main.py --model resnet --10
-```
-
-```
-$ python3 main.py --model cnn --10
-```
 
 # Results Presentation
 
