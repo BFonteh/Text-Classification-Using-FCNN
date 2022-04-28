@@ -83,4 +83,4 @@ ___
 <div>
     <h5> <a href='https://github.com/BFonteh'> Bonaventure Fonteh </a> </h5> <img src="figures/fonteh.png" height= 7% width= 7%>
     
-</div>
+</div> 
