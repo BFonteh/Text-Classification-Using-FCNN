@@ -12,6 +12,7 @@ sentation that can used with FC NNs.
 • Analyze and describe the difficulties in training FC NNs on text data. </br>
 
 Refer to this [link](https://www.kaggle.com/datasets/prakharrathi25/google-play-store-reviews) to get the data.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1375jOKvtvyeEcn71kRL5VlmgS36EY4Qi?usp=sharing)
 
 # Run the project #
