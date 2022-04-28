@@ -57,7 +57,7 @@ $ python3 main.py --model cnn --10
 ![caption](figures/bw1.png) 
 
 ``` TF-IDF train result```  </br>
-![caption](figures/tf-idf1.png) 
+![caption](figures/tf-idf.png) 
 
 ```BoW predict result result```  </br>
 ![caption](figures/bw2.png) 
@@ -68,7 +68,7 @@ $ python3 main.py --model cnn --10
 # Make prediction #
 
 ```
-$python3 predict.py --image_path "./data/Images/cat.0.jpg"
+$python3 predict.py
 ```
 ___
 
