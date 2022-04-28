@@ -12,6 +12,7 @@ sentation that can used with FC NNs.
 • Analyze and describe the difficulties in training FC NNs on text data. </br>
 
 Refer to this [link](https://www.kaggle.com/datasets/prakharrathi25/google-play-store-reviews) to get the data.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1375jOKvtvyeEcn71kRL5VlmgS36EY4Qi?usp=sharing)
 
 # Run the project #
 In this project, we have two steps: training and predicting. In the predict step, you can type a sentence as a review  and predict it. Let's show you how to run the project.
@@ -81,7 +82,7 @@ ___
 
 <div style="display:flex;align-items:center">
     <div>
-        <h5> <a href='https://github.com/Toadoum'> Mr. Sakayo Toadoum Sari </a> </h5> <img src="igures/sari.png" height= 7% width= 7%>
+        <h5> <a href='https://github.com/Toadoum'> Mr. Sakayo Toadoum Sari </a> </h5> <img src="figures/sari.png" height= 7% width= 7%>
 <div>
     <h5> <a href='.'> Mss Fadila Hamid Abdulai </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
     
