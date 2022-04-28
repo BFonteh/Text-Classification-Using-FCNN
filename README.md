@@ -1,4 +1,4 @@
-# Problem understanding: Text Classification using Full Convolutional NN #
+# Problem understanding: Text Classification using Full Connected NN #
 In this toy project, we aim to build a deep learning clssifier that predicts whether a text is a positive or negetive review.
 In this project you will try to use NN, namely FC NNs, for the task of
 text classification. Here is what we did:
